@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import icon from 'img/search-icon.svg';
+import icon from '../img/search-icon.svg';
 
 export const StyledSearchbar = styled.header`
   top: 0;

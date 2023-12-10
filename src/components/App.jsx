@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import { Button } from './Button/Button';
 import { ImageGallery } from './ImageGallery/ImageGallery';
 import { Searchbar } from './Searchbar/Searchbar';
-import { fetchImagesByQuery } from '../services/api';
+import { fetchImagesByQuery } from './services/api';
 import { Loader } from './Loader/Loader';
 import { GlobalStyle } from './Globalstyle';
 import { Container } from './Container';
